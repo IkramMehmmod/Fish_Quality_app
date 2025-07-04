@@ -14,11 +14,11 @@ Fish Quality Detector is a Flutter app that uses machine learning to analyze the
 ## Screenshots
 
 <p align="center">
-  <img src="assets/screenshorts/resuls 1.jpeg" alt="Result 1" width="250"/>
-  <img src="assets/screenshorts/splash screen .jpeg" alt="Splash Screen" width="250"/>
-  <img src="assets/screenshorts/home screen.jpeg" alt="Home Screen" width="250"/>
-  <img src="assets/screenshorts/preview screen.jpeg" alt="Preview Screen" width="250"/>
-  <img src="assets/screenshorts/results screen.jpeg" alt="Results Screen" width="250"/>
+  <img src="assets/screenshorts/resuls%201.jpeg" alt="Result 1" width="250"/>
+  <img src="assets/screenshorts/splash%20screen%20.jpeg" alt="Splash Screen" width="250"/>
+  <img src="assets/screenshorts/home%20screen.jpeg" alt="Home Screen" width="250"/>
+  <img src="assets/screenshorts/preview%20screen.jpeg" alt="Preview Screen" width="250"/>
+  <img src="assets/screenshorts/results%20screen.jpeg" alt="Results Screen" width="250"/>
 </p>
 
 ## Getting Started
