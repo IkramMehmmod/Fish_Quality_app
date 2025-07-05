@@ -120,11 +120,6 @@ Whether you're a professional chef, seafood vendor, home cook, or simply someone
 <br><b>✅ Result Details</b>
 <br><em>Confidence scores and recommendations</em>
 </td>
-<td align="center">
-<img src="https://via.placeholder.com/200x400/E3F2FD/1976D2?text=Share+Results" alt="Share Feature" width="200"/>
-<br><b>📤 Share Feature</b>
-<br><em>Export and sharing options</em>
-</td>
 </tr>
 </table>
 
