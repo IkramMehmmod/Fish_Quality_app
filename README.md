@@ -9,6 +9,7 @@
 
 <div align="center">
 
+
 ### *Revolutionary AI Technology for Food Safety*
 
 **Harness the power of artificial intelligence to instantly determine fish freshness with professional-grade accuracy. Protect your health, ensure quality, and make informed decisions with cutting-edge machine learning technology right in your pocket.**
